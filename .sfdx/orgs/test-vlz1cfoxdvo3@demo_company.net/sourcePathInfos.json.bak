@@ -1,0 +1,182 @@
+[
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603217293,
+            "changeTime": 1504603791307,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603217294,
+            "changeTime": 1504603791307,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603217294,
+            "changeTime": 1504603791307,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603993487,
+            "changeTime": 1504603993487,
+            "contentHash": "0c727bda06c338b42a421d39943313963b41f017",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603993511,
+            "changeTime": 1504603993511,
+            "contentHash": "91f5c64cfaa8c172903db062348ac5416ebd641c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontact.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontact.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1617,
+            "modifiedTime": 1504604265243,
+            "changeTime": 1504604265243,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontact.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontact.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 244,
+            "modifiedTime": 1504603993491,
+            "changeTime": 1504603993491,
+            "contentHash": "958c2d369e7df8c7bd4884364777bec412ba6d7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontact.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontact.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1504603993507,
+            "changeTime": 1504603993507,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontactController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontactController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 245,
+            "modifiedTime": 1504604383169,
+            "changeTime": 1504604383169,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontactHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontactHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1504603993498,
+            "changeTime": 1504603993498,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontactRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning\\force-app\\main\\default\\aura\\quickcontact\\quickcontactRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1504603993512,
+            "changeTime": 1504603993512,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Test\\DXLightning",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Test\\DXLightning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504604614489,
+            "changeTime": 1504604614489,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
